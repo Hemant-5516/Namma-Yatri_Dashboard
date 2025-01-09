@@ -6,16 +6,16 @@ The Namma Yatri ride-booking platform aims to optimize ride allocation, understa
 - <a href="https://github.com/Hemant-5516/Namma-Yatri_Dashboard/blob/main/namma_yatri.xlsx">Dataset</a>
 
 ## Questions (KPIs)
--How many trips are properly completed?
--How many searches are done by customers?
--What is the earning of the driver?
--What is the conversion rate?
--How many customers are only taking the estimation of fare?
+- How many trips are properly completed?
+- How many searches are done by customers?
+- What is the earning of the driver?
+- What is the conversion rate?
+- How many customers are only taking the estimation of fare?
 
 ## Process
--Data Verification:
---Verified the dataset for missing values and anomalies, ensuring data consistency and accuracy.
---Ensured data was cleaned, formatted, and consistent for analysis (e.g., proper date formats, numeric values).
+- Data Verification:
+-- Verified the dataset for missing values and anomalies, ensuring data consistency and accuracy.
+-- Ensured data was cleaned, formatted, and consistent for analysis (e.g., proper date formats, numeric values).
 
 -Analysis and Insights Generation:
 --Created pivot tables to summarize key metrics and answer the KPIs.
