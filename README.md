@@ -13,16 +13,9 @@ The Namma Yatri ride-booking platform aims to optimize ride allocation, understa
 - How many customers are only taking the estimation of fare?
 
 ## Process
-- Data Verification:
--- Verified the dataset for missing values and anomalies, ensuring data consistency and accuracy.
--- Ensured data was cleaned, formatted, and consistent for analysis (e.g., proper date formats, numeric values).
+- Verified the dataset for missing values and anomalies, ensuring data consistency and accuracy.
+- Ensured data was cleaned, formatted, and consistent for analysis (e.g., proper date formats, numeric values).
+- Created pivot tables to summarize key metrics and answer the KPIs.
+- Designed various charts (Line charts, Map) to visualize data.
+- Combined all the pivot tables and charts into one dynamic dashboard.
 
--Analysis and Insights Generation:
---Created pivot tables to summarize key metrics and answer the KPIs.
---Designed various charts (bar charts, pie charts, and line graphs) to visualize data.
---Added slicers to allow for interactive filtering by parameters like "Location," "Driver ID," "Time of Day," etc.
-
--Dashboard Creation:
---Combined all the pivot tables and charts into one dynamic dashboard.
---Applied slicers to allow for interactive exploration of the data.
---Published the dashboard to Power BI for easy sharing and access.
