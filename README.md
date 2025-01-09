@@ -30,10 +30,9 @@ The Namma Yatri ride-booking platform aims to optimize ride allocation, understa
 - Over 45% of rides were successfully completed, with less than 55% canceled.
 
 # Final Conclusion
--To further optimize ride allocation and enhance customer satisfaction for Namma Yatri, the following strategies are recommended:
-
--Focus marketing efforts on Koramangala, Whitefield, and Indiranagar as these areas show the highest demand.
--Reward top-performing drivers and incentivize female drivers to improve gender diversity.
--Enhance the booking experience for customers traveling during peak hours (7-9 AM and 6-8 PM), ensuring drivers are available during these times.
--Explore partnerships with App-based channels to drive more bookings.
+To further optimize ride allocation and enhance customer satisfaction for Namma Yatri, the following strategies are recommended:
+Focus marketing efforts on Koramangala, Whitefield, and Indiranagar as these areas show the highest demand.
+Reward top-performing drivers and incentivize female drivers to improve gender diversity.
+Enhance the booking experience for customers traveling during peak hours (7-9 AM and 6-8 PM), ensuring drivers are available during these times.
+Explore partnerships with App-based channels to drive more bookings.
 
